@@ -1,0 +1,11 @@
+h1 {
+    color: aqua;
+    background-color: red;
+}
+.maintable{
+    border: 3px solid black;
+}
+#firstparagraph{
+    color: rgb(65, 0, 187);
+    background-color: aquamarine;
+}
